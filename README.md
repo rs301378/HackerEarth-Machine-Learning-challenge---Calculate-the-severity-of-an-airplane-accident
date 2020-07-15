@@ -1,6 +1,7 @@
 # HackerEarth-Machine-Learning-challenge---Calculate-the-severity-of-an-airplane-accident
 
 ![Python](https://img.shields.io/badge/Python-3.6-%23800055)
+![jupyter notebook](https://img.shields.io/badge/jupyter%20notebook-6.0.3-%23ff4d4d)
 
 
 Flying has been the go-to mode of travel for years now; it is time-saving, affordable, and extremely convenient. According to the FAA, 2,781,971 passengers fly every day in the US, as in June 2019. Passengers reckon that flying is very safe, considering strict inspections are conducted and security measures are taken to avoid and/or mitigate any mishappenings. However, there remain a few chances of unfortunate incidents.
